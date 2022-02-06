@@ -44,7 +44,7 @@
   
 <details>
   <summary>Most Used Languages</summary>
-  <img align="left" alt="Fernando's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakue119&layout=compact&theme=tokyonight" />
+  <img align="left" alt="Fernando's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakue119&vhide_border=true&theme=tokyonight" />
 </details>
   
 <!--
