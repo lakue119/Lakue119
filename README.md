@@ -1,6 +1,4 @@
-<div align="center">
-<br><br><br>
-  
+<div align="center">  
   <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Lakue&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
  
 <p>Hello! My name is Lakue, Android developer.</p>
