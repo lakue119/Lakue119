@@ -9,7 +9,7 @@
 <p>I enjoy learning new skills, and I like to talk to other people about effective methods I know.
 <p>I enjoy sharing.🧑🏻‍💻</p>
   
-<br><br>
+<br>
   
 <h3>🔥 Tech Stack🔥</h3>
 
@@ -37,11 +37,18 @@
   <img src="https://img.shields.io/badge/Google Analytics-0769AD?style=flat&logo=GoogleAnalytics&logoColor=#E37400"/>
 </p>
 
-<br><br>
+<br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lakue119&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakue119&layout=compact&theme=tokyonight)
-
+<details>
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="Fernando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lakue119&show_icons=true&hide_border=true&theme=tokyonight" />
+</details>
+  
+<details>
+  <summary>Most Used Languages</summary>
+  <img align="left" alt="Fernando's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakue119&hide_border=true&theme=tokyonight" />
+</details>
+  
 <!--
 **lakue119/Lakue119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
